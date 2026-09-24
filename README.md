@@ -59,7 +59,7 @@ Open `index.html` in a browser after compiling the TypeScript. For the most reli
 5. Select the `main` branch and the `/ (root)` folder.
 6. Click **Save**.
 
-GitHub Pages will publish the app at:
+Link to deployed site:
 
  https://ngwinui.github.io/TaskManagerApp/
 
