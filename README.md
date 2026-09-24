@@ -63,7 +63,7 @@ GitHub Pages will publish the app at:
 
  https://ngwinui.github.io/TaskManagerApp/
 
-Whenever you make changes, rebuild and push them:
+Whenever changes are made, rebuild and push them:
 
 ```powershell
 npx tsc
