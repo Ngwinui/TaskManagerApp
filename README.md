@@ -61,9 +61,7 @@ Open `index.html` in a browser after compiling the TypeScript. For the most reli
 
 GitHub Pages will publish the app at:
 
-```text
-https://YOUR_USERNAME.github.io/YOUR_REPOSITORY/
-```
+ https://ngwinui.github.io/TaskManagerApp/
 
 Whenever you make changes, rebuild and push them:
 
